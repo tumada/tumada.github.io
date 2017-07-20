@@ -16,7 +16,7 @@ xxxx
 
 ### 場所
 
-福武ホール（http://fukutake.iii.u-tokyo.ac.jp/status/ )
+福武ホール（http://fukutake.iii.u-tokyo.ac.jp/status/)
 
 
 ## 登壇者（仮）
@@ -41,6 +41,29 @@ xxxx
 ## 招待制
 
 - 対象：若手東大 OB/OG （招待制）
+
+Range Only
+
+|  開始時間 | 終了時間 | 会場A (福武ホール) | 会場B (32名部屋) | 会場C (16 名部屋) |
+|  ------ | ------ | ------ | ------ | ------ |
+|  Fri Dec 29 1899 18:00:00 GMT-0700 (MST) | Fri Dec 29 1899 18:30:00 GMT-0700 (MST) | A1 | B1 | C1 |
+|  Fri Dec 29 1899 18:35:00 GMT-0700 (MST) | Fri Dec 29 1899 19:05:00 GMT-0700 (MST) | A2 | B2 | C2 |
+|  Fri Dec 29 1899 19:10:00 GMT-0700 (MST) | Fri Dec 29 1899 19:40:00 GMT-0700 (MST) | A3 | B3 | C3 |
+|  Fri Dec 29 1899 19:45:00 GMT-0700 (MST) | Fri Dec 29 1899 20:15:00 GMT-0700 (MST) | 全体講演 |  |  |
+|  Fri Dec 29 1899 20:20:00 GMT-0700 (MST) | Fri Dec 29 1899 20:50:00 GMT-0700 (MST) | A5 | B5 | C5 |
+|  Fri Dec 29 1899 20:55:00 GMT-0700 (MST) | Fri Dec 29 1899 21:25:00 GMT-0700 (MST) | A6 | B6 | C6 |
+|  Fri Dec 29 1899 21:30:00 GMT-0700 (MST) | Fri Dec 29 1899 22:00:00 GMT-0700 (MST) | A7 | B7 | C7 |
+|  Fri Dec 29 1899 22:05:00 GMT-0700 (MST) | Fri Dec 29 1899 22:35:00 GMT-0700 (MST) | A8 | B8 | C8 |
+|  Fri Dec 29 1899 22:40:00 GMT-0700 (MST) | Fri Dec 29 1899 23:10:00 GMT-0700 (MST) | A9 | B9 | C9 |
+|  Fri Dec 29 1899 23:15:00 GMT-0700 (MST) | Fri Dec 29 1899 23:45:00 GMT-0700 (MST) | A10 | B10 | C10 |
+|  Fri Dec 29 1899 23:50:00 GMT-0700 (MST) | Sat Dec 30 1899 00:20:00 GMT-0700 (MST) | 全体講演 |  |  |
+|  Sat Dec 30 1899 00:25:00 GMT-0700 (MST) | Sat Dec 30 1899 00:55:00 GMT-0700 (MST) | A12 | B12 | C12 |
+|  Sat Dec 30 1899 01:00:00 GMT-0700 (MST) | Sat Dec 30 1899 01:30:00 GMT-0700 (MST) | A13 | B13 | C13 |
+|  Sat Dec 30 1899 01:35:00 GMT-0700 (MST) | Sat Dec 30 1899 02:05:00 GMT-0700 (MST) | A14 | B14 | C14 |
+
+Save As Markdown
+Update
+ 
 
 
 主催：本郷ご近所さん会
