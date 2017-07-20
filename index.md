@@ -26,7 +26,7 @@
 
 ### ABC ルール
 
-![ルール](./images/even_rule.jpg "ルール")
+![ルール](./images/event_rule.jpg "ルール")
 
 1. セッションマスターが
 1. 対談相手を選んで
