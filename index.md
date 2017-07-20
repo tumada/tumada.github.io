@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+東大＆本郷超ご近所さん会 Extended（仮）
+概要
+目的：東大生（現役/OB,OG）系スタートアップ人材のプールとカルチャーを作る
+対象：若手東大 OB/OG （招待制）
+人数：200人程度
+スポンサー：東大IPCあたりから100万円ぐらい（運営の人件費含め）
 
-You can use the [editor on GitHub](https://github.com/tumada/tumada.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tumada/tumada.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+日時：10/7 (土) 
+場所：福武ホール（http://fukutake.iii.u-tokyo.ac.jp/status/ )
+主催：本郷ご近所さん会
+協力：東京大学産学協創推進本部
+※「学内が関わっていて無料」ならば大丈夫ですが、学環の教授会メンバーが紹介教員になる必要があります。
+トピック
+生々しいもの、現場感のあるもの、IVSとか意識高いのとは違うもの、本郷のコミュニティを作れるもの
+意識低めの人でも興味を持ちそうな感じで
+他でもありそうなものは外したり、ここでしかないわ〜みたいなの
+最終成果物
+人材のプールとネットワークを作る（＝Transactive Memory を作る: 誰に何を聞けばいいか分かる）
+Call to Action
+（当日）会いきれていない人たちがお互いを紹介し合う
+（翌日）気の合った人たちとランチミーティングに行く
+有名人＆忙しすぎる人は呼ばない
+大方針
+ずれと余白を作る
+Give and Give な人たちを連れてきて繋ぐ
+誰か居たら紹介してね、みたいな感じでナッジする
+解決できるモデルケース
+ロボテクの人が一人いたら研究進んだのに…　→　おお、あいついるじゃん
+この顧客インタビューがしたいのに…　→　あの人に聞いてみたら繋がるかも
+セッションの形式
+2, 3 人のトークセッションが中心
+二つ以上のジャンルの参加者が興味を持ちそうなもの
+セッションの最後にアクションを決める
+やってみたいこと
+圧倒的な手作り感とハイテク（https://grip.events/ みたいなアプリを使う）
+やりたいことのポストイットを貼るボード（スタートアップ横断サークルとか）
+このイベントでマッチングしてコーヒー飲む約束したら 500 円（スタバカード, UT Cafe カードみたいな）
