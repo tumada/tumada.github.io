@@ -42,11 +42,12 @@ xxxx
 
 - 対象：若手東大 OB/OG （招待制）
 
-Range Only
+## セッション
+
 
 |  開始時間 | 終了時間 | 会場A (福武ホール) | 会場B (32名部屋) | 会場C (16 名部屋) |
 |  ------ | ------ | ------ | ------ | ------ |
-|  Fri Dec 29 1899 18:00:00 GMT-0700 (MST) | Fri Dec 29 1899 18:30:00 GMT-0700 (MST) | A1 | B1 | C1 |
+|  10:00 | 10:30 | A1 | B1 | C1 |
 |  Fri Dec 29 1899 18:35:00 GMT-0700 (MST) | Fri Dec 29 1899 19:05:00 GMT-0700 (MST) | A2 | B2 | C2 |
 |  Fri Dec 29 1899 19:10:00 GMT-0700 (MST) | Fri Dec 29 1899 19:40:00 GMT-0700 (MST) | A3 | B3 | C3 |
 |  Fri Dec 29 1899 19:45:00 GMT-0700 (MST) | Fri Dec 29 1899 20:15:00 GMT-0700 (MST) | 全体講演 |  |  |
@@ -60,6 +61,11 @@ Range Only
 |  Sat Dec 30 1899 00:25:00 GMT-0700 (MST) | Sat Dec 30 1899 00:55:00 GMT-0700 (MST) | A12 | B12 | C12 |
 |  Sat Dec 30 1899 01:00:00 GMT-0700 (MST) | Sat Dec 30 1899 01:30:00 GMT-0700 (MST) | A13 | B13 | C13 |
 |  Sat Dec 30 1899 01:35:00 GMT-0700 (MST) | Sat Dec 30 1899 02:05:00 GMT-0700 (MST) | A14 | B14 | C14 |
+
+- A 会場: 200 名
+- B 会場: 32 名
+- C 会場: 16 名（ワークショップ）
+
 
 Save As Markdown
 Update
